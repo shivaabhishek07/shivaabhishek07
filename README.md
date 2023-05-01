@@ -24,7 +24,7 @@ Love Open-source and collabaration.
 ### 📈 Github Stats
 
 <a href="https://github.com/shivaabhishek07/shivaabhishek07">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivaabhishek07&theme=dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivaabhishek07&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" />
 </a>  
 
 
