@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ### 📖 Bio
+Hey👋, This is Shiva. An undergrad student from India,
 
-I'm a Computer science student in India, exploring the software industry.
-
-I love the DevOps stuff and looking to work on DevOps things.
-
-Love Open-source and collabaration. 
+- 🔭 I’m currently working on an open-source project [Packj](https://github.com/ossillate-inc/packj) 
+- 🌱 I’m currently learning about DevOps
+- 💬 Ask me about Open-Source, Development, DevOps, Technology
+- 📫 How to reach me: Twitter: [@shivaabhishek71](https://twitter.com/shivaabhishek71), LinkedIn: [Shiva Abhishek](www.linkedin.com/in/shivaabhishek71)
+- 😄 Pronouns: he/him/his
 
 ### 📈 Github Stats
 
