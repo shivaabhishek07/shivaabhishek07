@@ -1,33 +1,23 @@
-### Hi there 👋
+## Hi, I'm Shiva Abhishek 👋
 
-<!--
-**davidebianchi/davidebianchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineer building scalable products for startups and clients.  
+Experience across **backend, DevOps, Android, and AI**, from MVPs to production systems.
 
-### 📖 Bio
-Hey👋, This is Shiva. An undergrad student from India,
+- 🚀 Startup & product-focused engineer
+- 🧑‍💻 Open to **freelancing & contract work**
+- 🛠️ Backend, Full-Stack, Android, DevOps
+- ☁️ Cloud-native systems (AWS, Docker, Kubernetes, CI/CD)
+- 🤖 AI-powered apps
+- 🌱 Open-source contributor & technical blogger
 
-- 🔭 I’m currently exploring open-source projects and trying different things in Tech. 
-- 🌱 I’m currently learning about DevOps
-- 💬 Ask me about Open-Source, Development, DevOps, Technology
-- 📫 How to reach me: Twitter: [@shivaabhishek71](https://twitter.com/shivaabhishek71), LinkedIn: [Shiva Abhishek](www.linkedin.com/in/shivaabhishek71)
-- 😄 Pronouns: he/him/his
+### Tech Stack
+**Languages:** Java, Python, Go, C/C++  
+**Frameworks:** React, Flask, Node.js, Android  
+**Databases:** MySQL, MongoDB, SQLite  
+**DevOps:** Jenkins, ArgoCD, GitHub Actions
 
-### 📈 Github Stats
-
-<a href="https://github.com/shivaabhishek07/shivaabhishek07">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivaabhishek07&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" />
-</a>  
-
-
-<!-- Resources: -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+### Let’s Build
+- 📧 Email: shivaabhishek71@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/shivaabhishek71/  
+- 📝 Blog: https://shiva71.hashnode.dev/  
+- 🧑‍💻 GitHub: https://github.com/shivaabhishek07  
